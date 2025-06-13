@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yogesh S!
+# 👋 Hi, I'm Yogesh S!  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 
 🎓 I'm a 3rd-year Computer Science Engineering student at **SRM University**, passionate about coding, software development, and solving real-world problems with technology.
 
@@ -13,6 +13,7 @@
 ## 🧠 What I’m Learning
 
 - Data Structures & Algorithms (C++)
+- Integrating AI in all my workflows.
 - Data Science and Machine Learning.
 - Git & GitHub Best Practices
 
@@ -22,10 +23,7 @@
 
 ![Leetcode stats](https://leetcard.jacoblin.cool/Yogeshsasikumar?theme=dark&font=Krub))
 
-## 🗂️ Projects
 
-- 🔗 [Project Name 1](https://github.com/your-username/project1) — Description
-- 🔗 [Project Name 2](https://github.com/your-username/project2) — Description
 
 ---
 
