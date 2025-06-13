@@ -4,7 +4,7 @@
 ## 🚀 Portfolio Highlights
 
 - 🌐 **Portfolio Website:** [your-portfolio-link](https://your-portfolio-link.com)
-- 📫 **Email:** yogeshsasikumar0612@gmail.com
+- 📫 **Email:** [![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yogeshsasikumar0612@gmail.com)
 - 💼**LinkedIn:**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yogesh-s-94a454322/)
 - 💼**HackerRank:**[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yogeshsasikumar1)
 - 📸 **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-@Yogeshsasikumar-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yogeshsasikumar/)
