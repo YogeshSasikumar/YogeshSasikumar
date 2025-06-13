@@ -18,9 +18,9 @@
 
 ## 📈 GitHub Stats
 
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogeshSasikumar&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Leetcode stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Yogeshsasikumar?theme=dark&font=Krub))
 
 ## 🗂️ Projects
 
