@@ -1,9 +1,8 @@
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 # 👋 Hi, I'm Yogesh S!  
 🎓 I'm a 3rd-year Computer Science Engineering student at **SRM University**, passionate about coding, software development, and solving real-world problems with technology.
 
 ## 🚀 Portfolio Highlights
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🌐 **Portfolio Website:** [your-portfolio-link](https://your-portfolio-link.com)
 - 📫 **Email:** yogeshsasikumar0612@gmail.com
 - 💼**LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/yogesh-s-94a454322/)
